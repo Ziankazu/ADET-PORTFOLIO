@@ -14,7 +14,7 @@ const projects = [
     title: "Survey Management System",
     desc: "The Survey Management System lets you securely collect, manage, and access survey information online, no more manual forms or scattered responses.",
     thumb: "images/projects/SURVEY.png",
-    live: "LINK_EXPIRED.html",
+    live: "jaysystem.infinityfreeapp.com",
   },
 
   {
